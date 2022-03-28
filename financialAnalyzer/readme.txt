@@ -1,1 +1,4 @@
-Excell VBA automation macro with gui front end
+Excell VBA automation macro example
+
+Whole project is not uploaded due to privacy
+
